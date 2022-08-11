@@ -1,0 +1,12 @@
+.Intervalo span{
+
+    display: inline-block;
+    width: 100%;
+    min-width: 250px;
+    max-width: 1200px;
+}
+.Intervalo input{
+    font-size:1.8rem;
+    margin: 20px;
+   
+}
