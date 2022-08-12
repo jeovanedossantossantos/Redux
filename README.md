@@ -74,6 +74,12 @@ Expmplo de Action #1
 
 O estado é um objeto com chave e valor.
 
+<div width="400px">
+
+![](https://redux.js.org/assets/images/ReduxDataFlowDiagram-49fa8c3968371d9ef6f2a1486bd40a26.gif)
+
+</div>
+
         {
             chave: valor
         }
@@ -93,6 +99,7 @@ São gerado apartir de funções, cada uma alterando o estado de um atributo.
         }
 
 Exemplo:
+
 
         Estado 1
         {
@@ -129,3 +136,4 @@ Exemplo:
 # Criando um projeto 
 
         yarn create react-app <nome_do_projeto>
+
