@@ -137,3 +137,8 @@ Exemplo:
 
         yarn create react-app <nome_do_projeto>
 
+# Redux com React native
+
+- <a href="https://www.youtube.com/watch?v=Ax3N5rm28x8">Vídeo</a>
+- <a href="https://gitlab1s.com/wesley.silva/projeto-filmes-redux/-/blob/HEAD/App.js">Código</a>
+- <a href="https://gitlab.com/wesley.silva/projeto-filmes-redux">Repositorio</a>
